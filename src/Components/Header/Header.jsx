@@ -169,9 +169,8 @@ const Header = () => {
                      navigate("/");
                   }}
                >
-                  Peculiar
+                  E-commerce
                </Typography>
-
                <Grid
                   container
                   spacing={10}

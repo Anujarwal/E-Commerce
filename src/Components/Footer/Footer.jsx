@@ -104,7 +104,7 @@ const Footer = () => {
             classes.marginTopOne
           )}
         >
-          &copy; {year} Peculiar .
+          &copy; {year} E-commerce.
         </Typography>
         <Typography
           variant="body1"
